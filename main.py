@@ -1,0 +1,5 @@
+print("the first answer")
+print((1/2)*(-2+(2**2-4*1*(-5))**0.5))
+print("the second answer")
+print((1/2)*(-2)-(2**2-4*1*(-5))**0.5)
+print("the end")
